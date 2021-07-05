@@ -10,4 +10,3 @@ Youtube link: https://www.youtube.com/watch?v=nz5vufez8gA
 
 ![Resti](https://i.makeagif.com/media/7-05-2021/uPN8Pj.gif)
 
-[URL=/gif/resti-application-using-google-maps-find-restaurant-near-you-uPN8Pj][IMG]https://i.makeagif.com/media/7-05-2021/uPN8Pj.gif[/IMG][/URL]
