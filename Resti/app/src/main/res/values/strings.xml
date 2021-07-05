@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Resti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="address">Address:</string>
+    <string name="opening">Opening Hours:</string>
+    <string name="phone">Phone:</string>
+
+    <string name="you">Me</string>
+    <string name="intro">Loading Restaurants near you...</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resti</string>
+    <string name="hello_blank_fragment">בלה בלה</string>
+    <string name="address">כתובת:</string>
+    <string name="phone">מספר:</string>
+    <string name="opening">שעות פתיחה:</string>
+
+    <string name="you">אני</string>
+    <string name="intro">Loading Restaurants near you...</string>
+
+</resources>
